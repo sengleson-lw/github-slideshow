@@ -9,7 +9,7 @@ title: "Welcome to this new slide!"
 * Those
    * Bullet
    * Points!!!
-
+what a slide :tada:
 
 ![Dip Grilled Cheese into the Cake](https://media3.giphy.com/media/26n6E0FIhqPmN18MU/giphy.gif)
 
