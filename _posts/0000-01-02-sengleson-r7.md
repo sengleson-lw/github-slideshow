@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to this new slide!"
 ---
 # This is my super slide
 **Let's make some bold *italics*!**
